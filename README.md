@@ -1,4 +1,4 @@
-# ClassTech Device Tester
+# ClassTech Room Tester
 
 A web application for testing audio/video devices with synchronized playback across multiple devices. Perfect for classroom A/B testing scenarios and presentation equipment validation.
 
