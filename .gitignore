@@ -1,0 +1,26 @@
+# AWS SAM
+.aws-sam/
+samconfig.toml
+
+# Node modules
+lambda/node_modules/
+lambda/package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude documentation files
+CLAUDE.md
+DEPLOYMENT.md
+DEPLOYMENT_SUCCESS.md
+STATE_SYNC.md
+WEBRTC_IMPLEMENTATION_SUMMARY.md
+WEBRTC_OPTION.md
+WEBRTC_TESTING.md

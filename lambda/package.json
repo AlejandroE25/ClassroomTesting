@@ -1,0 +1,14 @@
+{
+  "name": "device-tester-websocket",
+  "version": "1.0.0",
+  "description": "Lambda functions for ClassTech Device Tester WebSocket API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.370.0",
+    "@aws-sdk/lib-dynamodb": "^3.370.0",
+    "@aws-sdk/client-apigatewaymanagementapi": "^3.370.0"
+  }
+}
